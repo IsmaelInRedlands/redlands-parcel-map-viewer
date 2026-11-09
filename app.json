@@ -1,0 +1,73 @@
+{
+  "version": "0.3",
+  "kind": "app",
+  "generatedAt": "2026-11-06T17:39:58.708Z",
+  "item": {
+    "title": "Redlands Parcel Map Viewer"
+  },
+  "map": {
+    "type": "webmap",
+    "path": "./map.json"
+  },
+  "app": {
+    "template": "nova-app",
+    "preset": "map",
+    "showHeader": true,
+    "theme": {
+      "mode": "light",
+      "accent": "default"
+    },
+    "layout": {},
+    "widgets": [
+      {
+        "id": "default-home",
+        "type": "home",
+        "slot": "top-left",
+        "config": {}
+      },
+      {
+        "id": "default-scale-bar",
+        "type": "scaleBar",
+        "slot": "bottom-left",
+        "config": {}
+      },
+      {
+        "id": "default-legend",
+        "type": "legend",
+        "slot": "bottom-left",
+        "config": {}
+      },
+      {
+        "id": "default-layer-list",
+        "type": "layerList",
+        "slot": "top-right",
+        "config": {}
+      },
+      {
+        "id": "default-basemap-gallery",
+        "type": "basemapGallery",
+        "slot": "top-right",
+        "config": {}
+      }
+    ],
+    "interactions": [],
+    "behaviors": []
+  },
+  "nova": {
+    "basename": "b5e37424-3e90-4c03-ad95-cc4bbdd7d627",
+    "presentationMode": "app",
+    "ownedGraphicsLayerIds": [],
+    "origin": {
+      "portalUrl": "https://www.arcgis.com",
+      "mapId": "output-faafa837-cb84-4cb9-b915-fca52921d775",
+      "mapName": "New Conversation",
+      "viewMode": "2d",
+      "capturedAt": "2026-11-06T17:39:58.705Z"
+    },
+    "sourceSelection": {
+      "mode": "all"
+    },
+    "unsupportedLayers": [],
+    "degradedFeatures": []
+  }
+}
