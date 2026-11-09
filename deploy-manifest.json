@@ -1,11 +1,11 @@
 {
   "kind": "arcgis-nova-deployable-app",
   "version": "0.1",
-  "generatedAt": "2026-11-06T17:39:58.705Z",
+  "generatedAt": "2026-11-09T03:49:43.001Z",
   "title": "Redlands Parcel Map Viewer",
   "authMode": "public",
   "entry": "index.html",
-  "sourceAppPath": "outputs/apps/2026-11-06T17-39-58-b5e37424-3e90-4c03-ad95-cc4bbdd7d627/index.html",
+  "sourceAppPath": "outputs/apps/2026-11-09T03-49-43-b5dfd7cf-3259-4a8f-b0d3-7ef3ef73a29b/index.html",
   "files": {
     "app": "app.json",
     "map": "map.json",

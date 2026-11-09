@@ -1,95 +1,10 @@
 {
   "operationalLayers": [
     {
-      "id": "1a1b2165ed6-layer-2",
+      "id": "1a1be6db3fa-layer-2",
       "title": "Redlands Parcels",
       "url": "https://services.arcgis.com/FLM8UAw9y5MmuVTV/arcgis/rest/services/Parcels_APN_Only/FeatureServer/1",
-      "itemId": "482b3139f33d480aab3a2076dcbe569d",
-      "layerType": "ArcGISFeatureLayer",
-      "layerDefinition": {
-        "fieldConfigurations": [
-          {
-            "name": "SiteNumber",
-            "fieldFormat": {
-              "type": "number",
-              "useGrouping": "never"
-            }
-          },
-          {
-            "name": "Acres",
-            "fieldFormat": {
-              "type": "number",
-              "maximumFractionDigits": 6,
-              "minimumFractionDigits": 6,
-              "useGrouping": "never"
-            }
-          },
-          {
-            "name": "Inhabited",
-            "fieldFormat": {
-              "type": "number",
-              "useGrouping": "never"
-            }
-          },
-          {
-            "name": "CENSUSBL",
-            "fieldFormat": {
-              "type": "number",
-              "maximumFractionDigits": 6,
-              "minimumFractionDigits": 6,
-              "useGrouping": "never"
-            }
-          },
-          {
-            "name": "CENSUSTR",
-            "fieldFormat": {
-              "type": "number",
-              "maximumFractionDigits": 6,
-              "minimumFractionDigits": 6,
-              "useGrouping": "never"
-            }
-          },
-          {
-            "name": "created_date",
-            "fieldFormat": {
-              "type": "date-time",
-              "dateStyle": "short",
-              "hour12": "always",
-              "timeStyle": "short"
-            }
-          },
-          {
-            "name": "last_edited_date",
-            "fieldFormat": {
-              "type": "date-time",
-              "dateStyle": "short",
-              "hour12": "always",
-              "timeStyle": "short"
-            }
-          },
-          {
-            "alias": "SHAPE.STArea()",
-            "name": "Shape__Area",
-            "fieldFormat": {
-              "type": "number",
-              "maximumFractionDigits": 6,
-              "minimumFractionDigits": 6,
-              "useGrouping": "never"
-            }
-          },
-          {
-            "alias": "SHAPE.STLength()",
-            "name": "Shape__Length",
-            "fieldFormat": {
-              "type": "number",
-              "maximumFractionDigits": 6,
-              "minimumFractionDigits": 6,
-              "useGrouping": "never"
-            }
-          }
-        ]
-      },
-      "blendMode": "normal"
+      "layerType": "ArcGISFeatureLayer"
     }
   ],
   "baseMap": {
@@ -129,12 +44,12 @@
           "latestWkid": 3857,
           "wkid": 102100
         },
-        "xmin": -13043178.473770678,
-        "ymin": 4035444.3618963785,
-        "xmax": -13042156.128517449,
-        "ymax": 4036169.3193364595
+        "xmin": -13043738.315286463,
+        "ymin": 4037681.0593814403,
+        "xmax": -13043346.57551645,
+        "ymax": 4038016.0685445173
       },
-      "scale": 4513.988705,
+      "scale": 2256.994353,
       "rotation": 0
     }
   }

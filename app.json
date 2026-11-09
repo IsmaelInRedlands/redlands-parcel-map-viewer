@@ -1,7 +1,7 @@
 {
   "version": "0.3",
   "kind": "app",
-  "generatedAt": "2026-11-06T17:39:58.708Z",
+  "generatedAt": "2026-11-09T03:49:43.004Z",
   "item": {
     "title": "Redlands Parcel Map Viewer"
   },
@@ -18,6 +18,7 @@
       "accent": "default"
     },
     "layout": {},
+    "layoutMode": "docked",
     "widgets": [
       {
         "id": "default-home",
@@ -54,15 +55,15 @@
     "behaviors": []
   },
   "nova": {
-    "basename": "b5e37424-3e90-4c03-ad95-cc4bbdd7d627",
+    "basename": "b5dfd7cf-3259-4a8f-b0d3-7ef3ef73a29b",
     "presentationMode": "app",
     "ownedGraphicsLayerIds": [],
     "origin": {
       "portalUrl": "https://www.arcgis.com",
-      "mapId": "output-faafa837-cb84-4cb9-b915-fca52921d775",
+      "mapId": "output-23d2992b-228c-4848-a84a-413b64077f37",
       "mapName": "New Conversation",
       "viewMode": "2d",
-      "capturedAt": "2026-11-06T17:39:58.705Z"
+      "capturedAt": "2026-11-09T03:49:43.001Z"
     },
     "sourceSelection": {
       "mode": "all"
